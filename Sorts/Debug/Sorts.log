@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\wyman\documents\visual studio 2015\projects\sorts\sorts\main.c(16): warning C4013: “system”未定义；假设外部返回 int
+  Sorts.vcxproj -> c:\users\wyman\documents\visual studio 2015\Projects\Sorts\Debug\Sorts.exe
+  Sorts.vcxproj -> c:\users\wyman\documents\visual studio 2015\Projects\Sorts\Debug\Sorts.pdb (Partial PDB)
